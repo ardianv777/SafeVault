@@ -1,0 +1,13 @@
+## [Template] VisualStudio.gitignore
+## Visual Studio 2015/2017/2019/2022
+.vs/
+[Bb]in/
+[Oo]bj/
+[Tt]est[Rr]esults/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+appsettings.Development.json
+*.db
+*.db-journal
